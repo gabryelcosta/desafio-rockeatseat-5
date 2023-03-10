@@ -1,0 +1,13 @@
+:root {
+  /* background */
+  --bg-home: #2C2B3D;
+
+  /* paleta de cores */
+  --cor-azul: #00BFA6;
+  --cor-branca: #FFFFFFFF;
+  --cor-cinza: #C2C2C2;
+
+  /* fontes */
+  --fonte-principal: 'JetBrains Mono', sans-serif;
+  --fonte-secundaria: 'Open Sans', sans-serif;
+}
